@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SanyGame
+- 👀 I’m interested in programming, gaming
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me priupolin5443@yandex.ru; SanyGame#7460
