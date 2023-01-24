@@ -1,4 +1,5 @@
 **Welcome to my GitHub Profile!**
+
 I am currently learning Python, web development (CSS, HTML, JavaScript), and I am passionate about videogames, programming, and anime.
 
 Here, you will find projects related to my learning journey, as well as some personal projects that I enjoy working on.
